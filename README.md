@@ -7,3 +7,6 @@
 - Họ tên: Nguyễn Chí Thành
 - MSSV: 102230268
 - Lớp: 23T_DT2
+- GitHub: kenzoknz
+## Mục tiêu
+Tìm hiểu Git và GitHub
